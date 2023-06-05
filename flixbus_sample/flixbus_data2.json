@@ -1,0 +1,513 @@
+[
+  {
+    "cities": {
+      "40d911c7-8646-11e6-9066-549f350fcb0c": {
+        "name": "Düsseldorf",
+        "slug": "duesseldorf",
+        "legacy_id": 108,
+        "id": "40d911c7-8646-11e6-9066-549f350fcb0c"
+      },
+      "40ddcc6e-8646-11e6-9066-549f350fcb0c": {
+        "name": "Milan",
+        "slug": "milan",
+        "legacy_id": 1194,
+        "id": "40ddcc6e-8646-11e6-9066-549f350fcb0c"
+      },
+      "40de6287-8646-11e6-9066-549f350fcb0c": {
+        "name": "Brussels",
+        "slug": "bruxelles",
+        "legacy_id": 1785,
+        "id": "40de6287-8646-11e6-9066-549f350fcb0c"
+      },
+      "40de8964-8646-11e6-9066-549f350fcb0c": {
+        "name": "Paris",
+        "slug": "paris",
+        "legacy_id": 2015,
+        "id": "40de8964-8646-11e6-9066-549f350fcb0c"
+      },
+      "40dfdfd8-8646-11e6-9066-549f350fcb0c": {
+        "name": "London",
+        "slug": "london",
+        "legacy_id": 3848,
+        "id": "40dfdfd8-8646-11e6-9066-549f350fcb0c"
+      }
+    },
+    "brands": {
+      "a18f138c-68fa-4b45-a42f-adb0378e10d3": {
+        "name": "FlixBus",
+        "type": "core",
+        "active": true,
+        "logo": "https://cdn-cf.cms.flixbus.com/drupal-assets/2023-03/flixbus-logo.png",
+        "images": [
+          {
+            "url": "https://cdn-cf.cms.flixbus.com/drupal-assets/styles/original/s3/2023-03/flixbus-EUR-1-bus-on-modern-bridge-with-blue-sky-and-marina-in-background.jpg",
+            "sources": [
+              {
+                "sizes": "100vw",
+                "srcset": "https://cdn-cf.cms.flixbus.com/drupal-assets/styles/product_image_300w/s3/2023-03/flixbus-EUR-1-bus-on-modern-bridge-with-blue-sky-and-marina-in-background.jpg 300w, https://cdn-cf.cms.flixbus.com/drupal-assets/styles/product_image_600w/s3/2023-03/flixbus-EUR-1-bus-on-modern-bridge-with-blue-sky-and-marina-in-background.jpg 600w, https://cdn-cf.cms.flixbus.com/drupal-assets/styles/product_image_960w/s3/2023-03/flixbus-EUR-1-bus-on-modern-bridge-with-blue-sky-and-marina-in-background.jpg 960w, https://cdn-cf.cms.flixbus.com/drupal-assets/styles/original/s3/2023-03/flixbus-EUR-1-bus-on-modern-bridge-with-blue-sky-and-marina-in-background.jpg 1200w"
+              }
+            ]
+          },
+          {
+            "url": "https://cdn-cf.cms.flixbus.com/drupal-assets/styles/original/s3/2023-03/flixbus-EUR-2-bus-interior-view-to-back-with-empty-seats-and-middle-aisle.jpg",
+            "sources": [
+              {
+                "sizes": "100vw",
+                "srcset": "https://cdn-cf.cms.flixbus.com/drupal-assets/styles/product_image_300w/s3/2023-03/flixbus-EUR-2-bus-interior-view-to-back-with-empty-seats-and-middle-aisle.jpg 300w, https://cdn-cf.cms.flixbus.com/drupal-assets/styles/product_image_600w/s3/2023-03/flixbus-EUR-2-bus-interior-view-to-back-with-empty-seats-and-middle-aisle.jpg 600w, https://cdn-cf.cms.flixbus.com/drupal-assets/styles/product_image_960w/s3/2023-03/flixbus-EUR-2-bus-interior-view-to-back-with-empty-seats-and-middle-aisle.jpg 960w, https://cdn-cf.cms.flixbus.com/drupal-assets/styles/original/s3/2023-03/flixbus-EUR-2-bus-interior-view-to-back-with-empty-seats-and-middle-aisle.jpg 1200w"
+              }
+            ]
+          },
+          {
+            "url": "https://cdn-cf.cms.flixbus.com/drupal-assets/styles/original/s3/2023-03/flixbus-EUR-3-female-passenger-boarding-with-smartphone-check-in-facing-driver-in-front-of-bus-entrance.jpg",
+            "sources": [
+              {
+                "sizes": "100vw",
+                "srcset": "https://cdn-cf.cms.flixbus.com/drupal-assets/styles/product_image_300w/s3/2023-03/flixbus-EUR-3-female-passenger-boarding-with-smartphone-check-in-facing-driver-in-front-of-bus-entrance.jpg 300w, https://cdn-cf.cms.flixbus.com/drupal-assets/styles/product_image_600w/s3/2023-03/flixbus-EUR-3-female-passenger-boarding-with-smartphone-check-in-facing-driver-in-front-of-bus-entrance.jpg 600w, https://cdn-cf.cms.flixbus.com/drupal-assets/styles/product_image_960w/s3/2023-03/flixbus-EUR-3-female-passenger-boarding-with-smartphone-check-in-facing-driver-in-front-of-bus-entrance.jpg 960w, https://cdn-cf.cms.flixbus.com/drupal-assets/styles/original/s3/2023-03/flixbus-EUR-3-female-passenger-boarding-with-smartphone-check-in-facing-driver-in-front-of-bus-entrance.jpg 1200w"
+              }
+            ]
+          }
+        ],
+        "usps": [],
+        "description": "<p>Europe's largest bus provider, with thousands of destinations throughout Europe and an extended network across North and South America.</p>\r\n",
+        "color": "#73D700",
+        "color_light": "#E5F9C0",
+        "color_dark": "#187D00"
+      }
+    },
+    "operators": {
+      "flixital": {
+        "label": "FlixBus",
+        "key": "flixital",
+        "url": "https://www.flixbus.it",
+        "address": "Corso Como 11, 20154 Milano",
+        "id": "flixital"
+      },
+      "flixfra": {
+        "label": "FlixBus",
+        "key": "flixfra",
+        "url": "http://www.flixbus.fr",
+        "address": "Spaces Bonne Nouvelle, 17-21 rue Saint-Fiacre, 75002 Paris",
+        "id": "flixfra"
+      },
+      "flixnl": {
+        "label": "FlixBus",
+        "key": "flixnl",
+        "url": "http://flixbus.nl",
+        "address": "Weesperstraat 61, 1018 VN Amsterdam",
+        "id": "flixnl"
+      }
+    },
+    "stations": {
+      "dcbaca96-9603-11e6-9066-549f350fcb0c": {
+        "id": "dcbaca96-9603-11e6-9066-549f350fcb0c",
+        "legacy_id": 25,
+        "name": "Düsseldorf",
+        "slug": "dsseldorf",
+        "is_train": false,
+        "importance": 99
+      },
+      "dcbc484a-9603-11e6-9066-549f350fcb0c": {
+        "id": "dcbc484a-9603-11e6-9066-549f350fcb0c",
+        "legacy_id": 1304,
+        "name": "Milan (Lampugnano bus station)",
+        "slug": "milano",
+        "is_train": false,
+        "importance": 100
+      },
+      "dcbf8bd9-9603-11e6-9066-549f350fcb0c": {
+        "id": "dcbf8bd9-9603-11e6-9066-549f350fcb0c",
+        "legacy_id": 2875,
+        "name": "Brussels-North station",
+        "slug": "bruxelles-nord",
+        "is_train": false,
+        "importance": 100
+      },
+      "dcc0f769-9603-11e6-9066-549f350fcb0c": {
+        "id": "dcc0f769-9603-11e6-9066-549f350fcb0c",
+        "legacy_id": 4948,
+        "name": "London Victoria Coach Station",
+        "slug": "london",
+        "is_train": false,
+        "importance": 0
+      },
+      "dcc5426b-9603-11e6-9066-549f350fcb0c": {
+        "id": "dcc5426b-9603-11e6-9066-549f350fcb0c",
+        "legacy_id": 11558,
+        "name": "Paris (Bercy Seine)",
+        "slug": "paris-bercy",
+        "is_train": false,
+        "importance": 100
+      }
+    },
+    "trips": [
+      {
+        "departure_city_id": "40ddcc6e-8646-11e6-9066-549f350fcb0c",
+        "arrival_city_id": "40dfdfd8-8646-11e6-9066-549f350fcb0c",
+        "date": "2023-06-05T00:00:00+02:00",
+        "results": {
+          "ic:dcbc484a-9603-11e6-9066-549f350fcb0c:dcc0f769-9603-11e6-9066-549f350fcb0c/89e70b92-d507-455b-8852-4c2b824e5694:dcc5426b-9603-11e6-9066-549f350fcb0c:dcc5426b-9603-11e6-9066-549f350fcb0c:a9b00d6f-df4d-4a14-b479-2dbbf7e66b72": {
+            "uid": "ic:dcbc484a-9603-11e6-9066-549f350fcb0c:dcc0f769-9603-11e6-9066-549f350fcb0c/89e70b92-d507-455b-8852-4c2b824e5694:dcc5426b-9603-11e6-9066-549f350fcb0c:dcc5426b-9603-11e6-9066-549f350fcb0c:a9b00d6f-df4d-4a14-b479-2dbbf7e66b72",
+            "status": "available",
+            "transfer_type": "Transfer",
+            "transfer_type_key": "direct#direct",
+            "provider": "flixbus",
+            "departure": {
+              "date": "2023-06-05T18:15:00+02:00",
+              "city_id": "40ddcc6e-8646-11e6-9066-549f350fcb0c",
+              "station_id": "dcbc484a-9603-11e6-9066-549f350fcb0c"
+            },
+            "arrival": {
+              "date": "2023-06-06T16:25:00+01:00",
+              "city_id": "40dfdfd8-8646-11e6-9066-549f350fcb0c",
+              "station_id": "dcc0f769-9603-11e6-9066-549f350fcb0c"
+            },
+            "duration": {
+              "hours": 23,
+              "minutes": 10
+            },
+            "price": {
+              "total": 108.98,
+              "original": 117.98,
+              "average": 108.98
+            },
+            "remaining": {
+              "seats_left_at_price": null,
+              "seats": null,
+              "bike_slots": 0,
+              "capacity": "low"
+            },
+            "available": {
+              "seats": 10,
+              "bike_slots": 0
+            },
+            "legs": [
+              {
+                "departure": {
+                  "date": "2023-06-05T18:15:00+02:00",
+                  "city_id": "40ddcc6e-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcbc484a-9603-11e6-9066-549f350fcb0c"
+                },
+                "arrival": {
+                  "date": "2023-06-06T06:25:00+02:00",
+                  "city_id": "40de8964-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcc5426b-9603-11e6-9066-549f350fcb0c"
+                },
+                "means_of_transport": "bus",
+                "amenities": [
+                  "WIFI",
+                  "POWER_SOCKETS"
+                ],
+                "is_marketplace": false,
+                "operator_id": "flixital",
+                "brand_id": "a18f138c-68fa-4b45-a42f-adb0378e10d3"
+              },
+              {
+                "departure": {
+                  "date": "2023-06-06T09:00:00+02:00",
+                  "city_id": "40de8964-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcc5426b-9603-11e6-9066-549f350fcb0c"
+                },
+                "arrival": {
+                  "date": "2023-06-06T16:25:00+01:00",
+                  "city_id": "40dfdfd8-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcc0f769-9603-11e6-9066-549f350fcb0c"
+                },
+                "means_of_transport": "bus",
+                "amenities": [
+                  "WIFI",
+                  "POWER_SOCKETS"
+                ],
+                "is_marketplace": false,
+                "operator_id": "flixfra",
+                "brand_id": "a18f138c-68fa-4b45-a42f-adb0378e10d3"
+              }
+            ],
+            "messages": [],
+            "restrictions": {
+              "sale_restriction": false,
+              "info_title": "",
+              "info_title_hint": "",
+              "info_message": "",
+              "bikes_allowed": true
+            }
+          },
+          "ic:dcbc484a-9603-11e6-9066-549f350fcb0c:dcc0f769-9603-11e6-9066-549f350fcb0c/a4b04d51-105b-4b8a-9ced-4dba8367a4ea:dcbf8bd9-9603-11e6-9066-549f350fcb0c:dcbf8bd9-9603-11e6-9066-549f350fcb0c:49e04a9d-2d9f-4fca-ba67-10fd4d90d904": {
+            "uid": "ic:dcbc484a-9603-11e6-9066-549f350fcb0c:dcc0f769-9603-11e6-9066-549f350fcb0c/a4b04d51-105b-4b8a-9ced-4dba8367a4ea:dcbf8bd9-9603-11e6-9066-549f350fcb0c:dcbf8bd9-9603-11e6-9066-549f350fcb0c:49e04a9d-2d9f-4fca-ba67-10fd4d90d904",
+            "status": "available",
+            "transfer_type": "Transfer",
+            "transfer_type_key": "direct#direct",
+            "provider": "flixbus",
+            "departure": {
+              "date": "2023-06-05T19:35:00+02:00",
+              "city_id": "40ddcc6e-8646-11e6-9066-549f350fcb0c",
+              "station_id": "dcbc484a-9603-11e6-9066-549f350fcb0c"
+            },
+            "arrival": {
+              "date": "2023-06-06T20:20:00+01:00",
+              "city_id": "40dfdfd8-8646-11e6-9066-549f350fcb0c",
+              "station_id": "dcc0f769-9603-11e6-9066-549f350fcb0c"
+            },
+            "duration": {
+              "hours": 25,
+              "minutes": 45
+            },
+            "price": {
+              "total": 109.98,
+              "original": 109.98,
+              "average": 109.98
+            },
+            "remaining": {
+              "seats_left_at_price": 3,
+              "seats": null,
+              "bike_slots": 0,
+              "capacity": "low"
+            },
+            "available": {
+              "seats": 21,
+              "bike_slots": 0
+            },
+            "legs": [
+              {
+                "departure": {
+                  "date": "2023-06-05T19:35:00+02:00",
+                  "city_id": "40ddcc6e-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcbc484a-9603-11e6-9066-549f350fcb0c"
+                },
+                "arrival": {
+                  "date": "2023-06-06T08:30:00+02:00",
+                  "city_id": "40de6287-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcbf8bd9-9603-11e6-9066-549f350fcb0c"
+                },
+                "means_of_transport": "bus",
+                "amenities": [
+                  "WIFI",
+                  "POWER_SOCKETS"
+                ],
+                "is_marketplace": false,
+                "operator_id": "flixnl",
+                "brand_id": "a18f138c-68fa-4b45-a42f-adb0378e10d3"
+              },
+              {
+                "departure": {
+                  "date": "2023-06-06T13:00:00+02:00",
+                  "city_id": "40de6287-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcbf8bd9-9603-11e6-9066-549f350fcb0c"
+                },
+                "arrival": {
+                  "date": "2023-06-06T20:20:00+01:00",
+                  "city_id": "40dfdfd8-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcc0f769-9603-11e6-9066-549f350fcb0c"
+                },
+                "means_of_transport": "bus",
+                "amenities": [
+                  "WIFI",
+                  "POWER_SOCKETS"
+                ],
+                "is_marketplace": false,
+                "operator_id": "flixnl",
+                "brand_id": "a18f138c-68fa-4b45-a42f-adb0378e10d3"
+              }
+            ],
+            "messages": [],
+            "restrictions": {
+              "sale_restriction": false,
+              "info_title": "",
+              "info_title_hint": "",
+              "info_message": "",
+              "bikes_allowed": true
+            }
+          },
+          "ic:dcbc484a-9603-11e6-9066-549f350fcb0c:dcc0f769-9603-11e6-9066-549f350fcb0c/c82d04ed-1d54-4600-afcb-4f36dbb8f344:dcc5426b-9603-11e6-9066-549f350fcb0c:dcc5426b-9603-11e6-9066-549f350fcb0c:cc355223-fdad-4530-8337-8679b0519aa4": {
+            "uid": "ic:dcbc484a-9603-11e6-9066-549f350fcb0c:dcc0f769-9603-11e6-9066-549f350fcb0c/c82d04ed-1d54-4600-afcb-4f36dbb8f344:dcc5426b-9603-11e6-9066-549f350fcb0c:dcc5426b-9603-11e6-9066-549f350fcb0c:cc355223-fdad-4530-8337-8679b0519aa4",
+            "status": "available",
+            "transfer_type": "Transfer",
+            "transfer_type_key": "direct#direct",
+            "provider": "flixbus",
+            "departure": {
+              "date": "2023-06-05T22:30:00+02:00",
+              "city_id": "40ddcc6e-8646-11e6-9066-549f350fcb0c",
+              "station_id": "dcbc484a-9603-11e6-9066-549f350fcb0c"
+            },
+            "arrival": {
+              "date": "2023-06-06T21:25:00+01:00",
+              "city_id": "40dfdfd8-8646-11e6-9066-549f350fcb0c",
+              "station_id": "dcc0f769-9603-11e6-9066-549f350fcb0c"
+            },
+            "duration": {
+              "hours": 23,
+              "minutes": 55
+            },
+            "price": {
+              "total": 108.98,
+              "original": 117.98,
+              "average": 108.98
+            },
+            "remaining": {
+              "seats_left_at_price": 3,
+              "seats": null,
+              "bike_slots": 0,
+              "capacity": "low"
+            },
+            "available": {
+              "seats": 10,
+              "bike_slots": 0
+            },
+            "legs": [
+              {
+                "departure": {
+                  "date": "2023-06-05T22:30:00+02:00",
+                  "city_id": "40ddcc6e-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcbc484a-9603-11e6-9066-549f350fcb0c"
+                },
+                "arrival": {
+                  "date": "2023-06-06T10:40:00+02:00",
+                  "city_id": "40de8964-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcc5426b-9603-11e6-9066-549f350fcb0c"
+                },
+                "means_of_transport": "bus",
+                "amenities": [
+                  "WIFI",
+                  "POWER_SOCKETS"
+                ],
+                "is_marketplace": false,
+                "operator_id": "flixital",
+                "brand_id": "a18f138c-68fa-4b45-a42f-adb0378e10d3"
+              },
+              {
+                "departure": {
+                  "date": "2023-06-06T13:45:00+02:00",
+                  "city_id": "40de8964-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcc5426b-9603-11e6-9066-549f350fcb0c"
+                },
+                "arrival": {
+                  "date": "2023-06-06T21:25:00+01:00",
+                  "city_id": "40dfdfd8-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcc0f769-9603-11e6-9066-549f350fcb0c"
+                },
+                "means_of_transport": "bus",
+                "amenities": [
+                  "WIFI",
+                  "POWER_SOCKETS"
+                ],
+                "is_marketplace": false,
+                "operator_id": "flixfra",
+                "brand_id": "a18f138c-68fa-4b45-a42f-adb0378e10d3"
+              }
+            ],
+            "messages": [],
+            "restrictions": {
+              "sale_restriction": false,
+              "info_title": "",
+              "info_title_hint": "",
+              "info_message": "",
+              "bikes_allowed": true
+            }
+          },
+          "ic:dcbc484a-9603-11e6-9066-549f350fcb0c:dcc0f769-9603-11e6-9066-549f350fcb0c/46f0ce23-4093-45a5-8b44-8615b723943f:dcbaca96-9603-11e6-9066-549f350fcb0c:dcbaca96-9603-11e6-9066-549f350fcb0c:47b43cab-06f3-47f4-8797-8e8105e6290f": {
+            "uid": "ic:dcbc484a-9603-11e6-9066-549f350fcb0c:dcc0f769-9603-11e6-9066-549f350fcb0c/46f0ce23-4093-45a5-8b44-8615b723943f:dcbaca96-9603-11e6-9066-549f350fcb0c:dcbaca96-9603-11e6-9066-549f350fcb0c:47b43cab-06f3-47f4-8797-8e8105e6290f",
+            "status": "full",
+            "transfer_type": "Transfer",
+            "transfer_type_key": "direct#direct",
+            "provider": "flixbus",
+            "departure": {
+              "date": "2023-06-05T23:40:00+02:00",
+              "city_id": "40ddcc6e-8646-11e6-9066-549f350fcb0c",
+              "station_id": "dcbc484a-9603-11e6-9066-549f350fcb0c"
+            },
+            "arrival": {
+              "date": "2023-06-07T05:55:00+01:00",
+              "city_id": "40dfdfd8-8646-11e6-9066-549f350fcb0c",
+              "station_id": "dcc0f769-9603-11e6-9066-549f350fcb0c"
+            },
+            "duration": {
+              "hours": 31,
+              "minutes": 15
+            },
+            "price": {
+              "total": 0,
+              "original": 0,
+              "average": 0
+            },
+            "remaining": {
+              "seats_left_at_price": null,
+              "seats": 0,
+              "bike_slots": 0,
+              "capacity": "low"
+            },
+            "available": {
+              "seats": 0,
+              "bike_slots": 0
+            },
+            "legs": [
+              {
+                "departure": {
+                  "date": "2023-06-05T23:40:00+02:00",
+                  "city_id": "40ddcc6e-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcbc484a-9603-11e6-9066-549f350fcb0c"
+                },
+                "arrival": {
+                  "date": "2023-06-06T13:35:00+02:00",
+                  "city_id": "40d911c7-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcbaca96-9603-11e6-9066-549f350fcb0c"
+                },
+                "means_of_transport": "bus",
+                "amenities": [
+                  "WIFI",
+                  "POWER_SOCKETS"
+                ],
+                "is_marketplace": false,
+                "operator_id": "flixital",
+                "brand_id": "a18f138c-68fa-4b45-a42f-adb0378e10d3"
+              },
+              {
+                "departure": {
+                  "date": "2023-06-06T18:15:00+02:00",
+                  "city_id": "40d911c7-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcbaca96-9603-11e6-9066-549f350fcb0c"
+                },
+                "arrival": {
+                  "date": "2023-06-07T05:55:00+01:00",
+                  "city_id": "40dfdfd8-8646-11e6-9066-549f350fcb0c",
+                  "station_id": "dcc0f769-9603-11e6-9066-549f350fcb0c"
+                },
+                "means_of_transport": "bus",
+                "amenities": [
+                  "WIFI",
+                  "POWER_SOCKETS"
+                ],
+                "is_marketplace": false,
+                "operator_id": "flixnl",
+                "brand_id": "a18f138c-68fa-4b45-a42f-adb0378e10d3"
+              }
+            ],
+            "messages": [],
+            "restrictions": {
+              "sale_restriction": false,
+              "info_title": "",
+              "info_title_hint": "",
+              "info_message": "",
+              "bikes_allowed": true
+            }
+          }
+        },
+        "means_of_transport": [
+          "bus"
+        ],
+        "departure": {
+          "earliest_date": "2023-06-05T18:15:00+02:00",
+          "latest_date": "2023-06-05T23:40:00+02:00",
+          "stations": [
+            "dcbc484a-9603-11e6-9066-549f350fcb0c"
+          ]
+        },
+        "arrival": {
+          "earliest_date": "2023-06-06T16:25:00+01:00",
+          "latest_date": "2023-06-07T05:55:00+01:00",
+          "stations": [
+            "dcc0f769-9603-11e6-9066-549f350fcb0c"
+          ]
+        }
+      }
+    ]
+  }
+]

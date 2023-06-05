@@ -1,0 +1,32 @@
+{
+    "40d911c7-8646-11e6-9066-549f350fcb0c": {
+        "name": "Düsseldorf",
+        "slug": "duesseldorf",
+        "legacy_id": 108,
+        "id": "40d911c7-8646-11e6-9066-549f350fcb0c"
+    },
+    "40ddcc6e-8646-11e6-9066-549f350fcb0c": {
+        "name": "Milan",
+        "slug": "milan",
+        "legacy_id": 1194,
+        "id": "40ddcc6e-8646-11e6-9066-549f350fcb0c"
+    },
+    "40de6287-8646-11e6-9066-549f350fcb0c": {
+        "name": "Brussels",
+        "slug": "bruxelles",
+        "legacy_id": 1785,
+        "id": "40de6287-8646-11e6-9066-549f350fcb0c"
+    },
+    "40de8964-8646-11e6-9066-549f350fcb0c": {
+        "name": "Paris",
+        "slug": "paris",
+        "legacy_id": 2015,
+        "id": "40de8964-8646-11e6-9066-549f350fcb0c"
+    },
+    "40dfdfd8-8646-11e6-9066-549f350fcb0c": {
+        "name": "London",
+        "slug": "london",
+        "legacy_id": 3848,
+        "id": "40dfdfd8-8646-11e6-9066-549f350fcb0c"
+    }
+}
